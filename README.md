@@ -39,4 +39,4 @@ This project runs directly in the browser and does not require a backend server.
 
 ## License
 
-This project is open-source. Feel free to modify and adapt the code for your own creative projects.
+This project is open-source. Feel free to modify and adapt the code for your own creative projects. For a demo visit: https://viperwraith47.github.io/NEONwebcam/
