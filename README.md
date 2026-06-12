@@ -1,6 +1,6 @@
-# GestureDraw
+# NeonWebcam
 
-GestureDraw is a touchless, gesture-controlled digital canvas built with HTML5 and JavaScript. It allows users to draw, erase, and pan across a canvas using simple hand movements tracked via their webcam.
+NeonWebcam is a touchless, gesture-controlled digital canvas built with HTML5 and JavaScript. It allows users to draw, erase, and pan across a canvas using simple hand movements tracked via their webcam.
 
 ## Features
 
@@ -16,8 +16,8 @@ GestureDraw is a touchless, gesture-controlled digital canvas built with HTML5 a
 
 This project runs directly in the browser and does not require a backend server.
 
-1.  Clone this repository or download `homepage.html`.
-2.  Open `homepage.html` in a modern web browser (Chrome, Edge, or Firefox recommended).
+1.  Clone this repository or download `index.html`.
+2.  Open `index.html` in a modern web browser (Chromium-based browsers recommended).
 3.  Grant camera access when prompted.
 4.  Once the hand tracking model loads, you are ready to draw!
 
